@@ -33,3 +33,10 @@ that they can walk independently.
 ![blind stic](https://github.com/Aditya9764/Smart-Blind-Strick-with-Location-Detection/assets/90107321/81a2b78b-e6e7-4c1f-a8e2-5087e77ac677)
 
 
+
+![Location](https://github.com/Aditya9764/Smart-Blind-Strick-with-Location-Detection/assets/90107321/57c7ac8e-86df-4f3d-a14a-17c9e422353c)
+
+
+
+![coordinate](https://github.com/Aditya9764/Smart-Blind-Strick-with-Location-Detection/assets/90107321/a62389ea-1798-426e-bb15-33049bbaaf0f)
+
