@@ -29,12 +29,22 @@ detection aid for the blind which gives a sense of artificial by providing
 information about the environmental scenario of static and dynamic objects round them, so 
 that they can walk independently.
 
+# Smart-Blind-Strick- Img
+
 
 ![blind stic](https://github.com/Aditya9764/Smart-Blind-Strick-with-Location-Detection/assets/90107321/81a2b78b-e6e7-4c1f-a8e2-5087e77ac677)
 
 
 
+# Smart-Blind-Strick-with-Location-Detection with Google Earth - Img
+
+
+
 ![Location](https://github.com/Aditya9764/Smart-Blind-Strick-with-Location-Detection/assets/90107321/57c7ac8e-86df-4f3d-a14a-17c9e422353c)
+
+
+
+# Smart-Blind-Strick- Co-ordinate Detection wth Blynk IOT App - Img
 
 
 
