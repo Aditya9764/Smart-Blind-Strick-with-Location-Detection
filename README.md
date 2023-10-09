@@ -26,7 +26,7 @@ on visually impaired people who cannot walk independently environment.
 The system consists of ultrasonic sensors, and the feedback is received through audio. The 
 aim of the overall system is to provide a low-cost and efficient navigation and obstacle 
 detection aid for the blind which gives a sense of artificial by providing 
-information about the environmental scenario of static and dynamic objects round them, so 
+information about the environmental scenario of static and dynamic objects around them, so 
 that they can walk independently.
 
 # Smart-Blind-Strick- Img
