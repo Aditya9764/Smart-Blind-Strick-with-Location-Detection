@@ -8,7 +8,7 @@ via making use of IoT.
 
 The main objective of our project is to provide IOT-based assistance to blind people. 
 The existing devices for the visually impaired only focus on traveling from one location 
-to another. 
+to another.
 
 
 The device is aimed to help the visually impaired with the same maneuver as that of sighted 
