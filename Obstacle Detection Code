@@ -11,8 +11,8 @@ long duration;
 int distance;
 int safetyDistance;
  void setup() {
-pinMode(trigPin, OUTPUT); // Sets the trigPin as an Output
-pinMode(echoPin, INPUT); // Sets the echoPin as an Input
+pinMode(trigPin, OUTPUT); // Sets the trigPin as an Output(to send ultrasonic wave) 
+pinMode(echoPin, INPUT); // Sets the echoPin as an Input(to receive ultrasonic wave)
 pinMode(buzzer, OUTPUT);
 pinMode(ledPin, OUTPUT);
 Serial.begin(9600); // Starts the serial communication
