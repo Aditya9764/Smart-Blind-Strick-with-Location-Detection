@@ -29,6 +29,8 @@ detection aid for the blind which gives a sense of artificial by providing
 information about the environmental scenario of static and dynamic objects around them, so 
 that they can walk independently.
 
+This is my final year major project.
+
 # Smart-Blind-Strick- Img
 
 
